@@ -1,3 +1,3 @@
-# Multiple-Prior-Bayesian
+# Multiple Prior Bayesian
  
 Test
