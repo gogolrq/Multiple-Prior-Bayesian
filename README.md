@@ -1,3 +1,3 @@
-# Multiple Prior Bayesian
+# Code for "Inference under Ambiguity"
  
-Test
+TBA
